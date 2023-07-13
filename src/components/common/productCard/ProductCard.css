@@ -1,0 +1,23 @@
+
+.divCard{
+    margin-top: 10em;
+}
+
+.divInfo{
+
+    background-color: #dfdfdf;
+    height: 9rem;
+    width: 9rem;
+    box-shadow: 0 0 2px rgb(0 0 0 / 10%);
+    padding: 1rem;
+    
+}
+
+.divInfo:hover{
+
+    filter: drop-shadow(1px 1px 2px black) brightness(0.95);
+
+}
+.imgCard{
+    padding-left: 1rem;
+}
